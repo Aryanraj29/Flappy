@@ -8,11 +8,11 @@ const fg = new Image();
 const pipeNorth = new Image();
 const pipeSouth = new Image();
 
-bird.src = "Flappy/t1.png";
-bg.src = "Flappy/background.png";
-fg.src = "Flappy/twitty1.jpg";
-pipeNorth.src = "Flappy/north1.png";
-pipeSouth.src = "Flappy/north1.png";
+bird.src = "t1.png";
+bg.src = "background.png";
+fg.src = "twitty1.jpg";
+pipeNorth.src = "north1.png";
+pipeSouth.src = "north1.png";
 
 // Adjust image sizes
 const birdWidth = 34;
